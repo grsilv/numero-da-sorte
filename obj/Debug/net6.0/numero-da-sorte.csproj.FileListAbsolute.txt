@@ -1,0 +1,15 @@
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\bin\Debug\net6.0\numero-da-sorte.exe
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\bin\Debug\net6.0\numero-da-sorte.deps.json
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\bin\Debug\net6.0\numero-da-sorte.runtimeconfig.json
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\bin\Debug\net6.0\numero-da-sorte.dll
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\bin\Debug\net6.0\ref\numero-da-sorte.dll
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\bin\Debug\net6.0\numero-da-sorte.pdb
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.csproj.AssemblyReference.cache
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.AssemblyInfoInputs.cache
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.AssemblyInfo.cs
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.csproj.CoreCompileInputs.cache
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.dll
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\ref\numero-da-sorte.dll
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.pdb
+C:\Users\grsil\Desktop\programaçao\C#\numero-da-sorte\obj\Debug\net6.0\numero-da-sorte.genruntimeconfig.cache
